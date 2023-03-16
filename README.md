@@ -1,6 +1,6 @@
 ## Olá, sou o Marcelo! 👋 <br>
 
-- 🌱 Graduando do IME-USP em Ciencia da Computação.
+- 🌱 Graduando do IME-USP em Ciência da Computação.
 
 
 <div style="display: inline_block"><br>
