@@ -1,4 +1,4 @@
-## Olá! 👋 <br>
+## Olá! <br>
 
 - 🌱 Graduando do IME-USP em Ciência da Computação.
 
