@@ -1,4 +1,4 @@
-## Olá, sou o Marcelo! 👋 <br>
+## Olá! 👋 <br>
 
 - 🌱 Graduando do IME-USP em Ciência da Computação.
 
